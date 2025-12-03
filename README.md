@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# NestJS Starter Repository
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -97,7 +98,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-=======
+
 # ve-tau-tet-services
+
 NestJS với microservices
->>>>>>> 1b9797ea93d09f85f717f8deb17b25bdeb564bac
